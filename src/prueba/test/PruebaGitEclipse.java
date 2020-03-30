@@ -9,7 +9,7 @@ public class PruebaGitEclipse {
 		System.out.println(saludo.saludar("Juan"));
 		System.out.println(saludo.saludar("Luis"));
 		System.out.println(saludo.saludar("Elena"));
-		System.out.println(saludo.saludar("Christiano"));
+		System.out.println(saludo.saludar("Christian"));
 	}
 
 }
